@@ -1,0 +1,30 @@
+#Iconsforwebsite li {
+    display: inline-block;
+    list-style: none;
+}
+
+.Iconsforwebsite{
+    background-color: lightgray;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: black;
+}
+.container-fluid {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.Bottom_container{
+    background-color: darkgray;
+}
+    
